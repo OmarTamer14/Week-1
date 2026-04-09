@@ -1,7 +1,7 @@
 #ifndef LED_INTERFACE_H
 #define LED_INTERFACE_H
 
-/* MUST include std_types first so the compiler knows what 'u8' is */
+
 #include "../../SERVICES/std_types.h"
 
 #define LED0    0
