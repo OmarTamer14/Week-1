@@ -1,7 +1,7 @@
 #include "../../SERVICES/std_types.h"
 #include "../../SERVICES/bit_math.h"
-#include "TIMER0_private.h"
-#include "TIMER0_interface.h"
+#include "Timer0_private.h"
+#include "Timer0_interface.h"
 
 void TIMER0_voidInit(u8 copy_u8Prescaler) {
     /*  Set Timer Mode (T0CS = 0) */
